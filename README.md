@@ -1,7 +1,7 @@
 Hi, I’m Abril Chan (yes, that's my last name) :relaxed:
 
 For the last six months I've been working on Front-End web development projects :computer: I have experience using JavaScript, HTML, and CSS. Also I've worked
-with Firebase, Firestore, NodeJS, Jest and React. In case you want to know more about my projects, you can look the ones I'm prouder at my pinned  📌
+with Firebase, Firestore, NodeJS, Jest and React. In case you want to know more about my projects, you can look the ones I'm most proud at my pinned  📌
 
 I've always been very passionated about science and tech, I am, in fact, a Physics Engineer :rocket: 
 My interest are, in general, science and specifically astrophysics :waxing_crescent_moon: this passion led me to learn programming with Python. My undergrad thesis 
