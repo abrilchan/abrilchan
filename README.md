@@ -5,7 +5,7 @@ with Firebase, Firestore, NodeJS, Jest and React. In case you want to know more 
 
 I've always been very passionated about science and tech, I am, in fact, a Physics Engineer :rocket: 
 My interest are, in general, science and specifically astrophysics :waxing_crescent_moon: this passion led me to learn programming with Python. My undergrad thesis 
-is a vey interesting analysis of variability in lightcurves. You can check it [here]().
+is a vey interesting analysis of variability in lightcurves. You can check it [here](https://drive.google.com/file/d/1xxWdO5Uv5LJXx__O05n5OieXe_UkgOrr/view?usp=sharing).
 
 I'm currently expanding my knowledge in programming, now as a web developer. And, of course, I'm open to collaborate on related projects :dizzy:
 
